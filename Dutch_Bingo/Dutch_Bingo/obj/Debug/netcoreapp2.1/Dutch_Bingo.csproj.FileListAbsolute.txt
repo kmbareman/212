@@ -1,0 +1,11 @@
+H:\Dutch_Bingo\Dutch_Bingo\bin\Debug\netcoreapp2.1\Dutch_Bingo.deps.json
+H:\Dutch_Bingo\Dutch_Bingo\bin\Debug\netcoreapp2.1\Dutch_Bingo.runtimeconfig.json
+H:\Dutch_Bingo\Dutch_Bingo\bin\Debug\netcoreapp2.1\Dutch_Bingo.runtimeconfig.dev.json
+H:\Dutch_Bingo\Dutch_Bingo\bin\Debug\netcoreapp2.1\Dutch_Bingo.dll
+H:\Dutch_Bingo\Dutch_Bingo\bin\Debug\netcoreapp2.1\Dutch_Bingo.pdb
+H:\Dutch_Bingo\Dutch_Bingo\obj\Debug\netcoreapp2.1\Dutch_Bingo.csprojAssemblyReference.cache
+H:\Dutch_Bingo\Dutch_Bingo\obj\Debug\netcoreapp2.1\Dutch_Bingo.csproj.CoreCompileInputs.cache
+H:\Dutch_Bingo\Dutch_Bingo\obj\Debug\netcoreapp2.1\Dutch_Bingo.AssemblyInfoInputs.cache
+H:\Dutch_Bingo\Dutch_Bingo\obj\Debug\netcoreapp2.1\Dutch_Bingo.AssemblyInfo.cs
+H:\Dutch_Bingo\Dutch_Bingo\obj\Debug\netcoreapp2.1\Dutch_Bingo.dll
+H:\Dutch_Bingo\Dutch_Bingo\obj\Debug\netcoreapp2.1\Dutch_Bingo.pdb
